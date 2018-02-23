@@ -1,0 +1,11 @@
+commit 8c312c6d3363f5468b726e7e226aa75c179df914
+Author: Saulo Gomez <saulogomez.sg@gmail.com>
+Date:   Fri Feb 23 11:06:04 2018 -0500
+
+    se agrego un dive con color
+
+commit 9c70f090cff3160f5a8d57e0b049d80110a1ce92
+Author: Saulo Gomez <saulogomez.sg@gmail.com>
+Date:   Fri Feb 23 10:50:50 2018 -0500
+
+    agregando 1er index
